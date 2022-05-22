@@ -1,2 +1,2 @@
 # demo
-some project
+some project!
